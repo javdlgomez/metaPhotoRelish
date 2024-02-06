@@ -40,10 +40,10 @@ Finds any emails that are equal to the value given to the query parameter.
 Limits the quantity of database terms that are shown on the loaded page, it's set by default to 25.
 - offset:
 Offsets the starting database term by its query parameter, it's set by default to 0.
-### Interact With The App Server 
 
 Open [http://localhost:4000/externalapi/photos/:id](http://localhost:4000/externalapi/photos/1) with id going from 1 to 5k,  to access a specific photo filtered information from the database.
 
+### Interact With The App Server 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the SPA MetaPhoto. This application lets you interact with the API with a practical graphical interface that shows the most usefull information and retains the same database filtering capabilities. You can navigate through the database pressing the Prev and Next Page buttons and access to the most relevant single photo information by interacting with the View button.
 
