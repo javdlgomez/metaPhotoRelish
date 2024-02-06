@@ -52,28 +52,39 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 We are currently finishing porting the API from Express to run on Next.js exclusively for a future [Vercel](https://vercel.com/) deployment.
 
 ## Dependencies
+This project uses the following dependencies:
 
-"daisyui": "^4.6.1",
+* [daisyUI](https://daisyui.com/) v 
+ 
+* [eslint](https://eslint.org/) v "^8".
 
-"eslint": "^8",
+* [use-debounce](https://www.npmjs.com/package/use-debounce) v ^10.0.0.
 
-"use-debounce": "^10.0.0"
+* [axios](https://axios-http.com/docs/intro) v ^1.6.7.
 
-"axios": "^1.6.7",
+* [cors](https://www.npmjs.com/package/cors)  v^2.8.5.
 
-"cors": "^2.8.5",
+* [express-joi-validation](https://www.npmjs.com/package/express-joi-validation)  v^5.0.1.
 
-"express-joi-validation": "^5.0.1",
+* [joi](https://www.npmjs.com/package/joi) v ^17.12.1.
 
-"joi": "^17.12.1"
+* [tailwindcss](https://tailwindcss.com/) v ^3.3.0
+
+
+
+* Express v ^4.18.2:
 
 To learn more about Express, take a look at [Expressjs main Page.](https://expressjs.com/)
+
+
+ * Nextjs v 14.1.0:
 
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+
 
 
